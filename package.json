@@ -1,0 +1,20 @@
+{
+  "name": "read-rfid-tag",
+  "version": "1.0.0",
+  "description": "Read an RFID tag from a smart card using card-reader.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "smart-card",
+    "smartcard",
+    "pcsc",
+    "rfid"
+  ],
+  "author": "Benjamim Sonntag <benjamimsonntag@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "card-reader": "^1.0.3"
+  }
+}
